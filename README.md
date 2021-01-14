@@ -18,7 +18,7 @@ This is the **bold** text and ~~this~~ is the *italic*.
  Click [here](https://github.com/HJunee)
 
  <!-- Image -->
- ![inage description](https://avatars1.githubusercontent.com/u/77251041?s=460&v=4)
+ ![inage description](https://user-images.githubusercontent.com/77251041/104527756-cc4a7d80-5648-11eb-8214-d3f85d923b05.jpg)
 
  <!-- Table -->
  |Header|Description|
